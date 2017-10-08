@@ -1,0 +1,10 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.2.0
+#@/tick	4
+#@/user_id	e0338f19-0cbb-4b23-8063-c63ff7ee40a2
+mo hu 	模糊	c=1 d=1 t=3
+pei zhi 	配置	c=1 d=1 t=1
+pin yin 	拼音	c=1 d=1 t=4
+wen jian 	文件	c=1 d=1 t=2
